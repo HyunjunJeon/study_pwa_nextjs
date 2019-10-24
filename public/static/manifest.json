@@ -1,0 +1,20 @@
+{
+    "name" : "Real Program Name",
+    "short_name" : "Phone View Name",
+    "background_color" : "#000",
+    "theme_color" : "#000",
+    "display": "standalone",
+    "start_url": "/",
+    "icons" : [
+        {
+            "src": "/static/192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/static/512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
